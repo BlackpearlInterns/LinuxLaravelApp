@@ -1,3 +1,1 @@
-# LinuxLaravelWebApp
-# LinuxLaravelWebApp
-# LaravelWebAppLinux
+Laravel Wep App - Sprint 1 - LINUX
